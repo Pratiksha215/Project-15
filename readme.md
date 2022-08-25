@@ -11,7 +11,7 @@ Responsive Street Style Landing Page designed using pure Html and Css.
 - Flexbox
 
 ## Landing Page Snapshot
-![Snapshot](15.png)
+![Snapshot](/assets/15.png)
 
 
 
