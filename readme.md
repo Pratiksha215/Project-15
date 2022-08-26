@@ -1,4 +1,4 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+# Product Design Landing Page
 
 ## Concepts and Learnings
 
@@ -23,4 +23,9 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 [Live-Demo](https://visual-designer-landing.netlify.app/)
 
+## Time taken to finish this project
+
+⏰-   2.5 hour taken to complete it.
 ## Designed By Patil Pratiksha
+
+
